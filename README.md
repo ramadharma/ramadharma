@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Rama Dharma</h1>
 <h3 align="center">a UI/UX Designer based in Indonesia. I love to care about interaction and empathise to users, try to understand what user wants, and be a design thinker😁</h3>
 
