@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramadharma&label=Profile%20views&color=0e75b6&style=flat" alt="ramadharma" /> </p>
 
-- 🌱 I’m currently learning **UX Design and Tailwindcss**
+- 🌱 I’m currently learning **UX Design and Python**
 
 - 👨‍💻 All of my projects are available at [ramadharma.github.io](ramadharma.github.io)
 
