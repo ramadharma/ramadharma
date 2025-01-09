@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 4 years ago<br>📚 I'm currently learning snake<br>🎯 Goals: Be a friendly neighborhood programmer<br>🎲 Fun fact: I'm a muggle</p>
+<p align="left">✨ Creating bugs since 4 years ago<br>📚 I'm currently learning how to tame a snake<br>🎯 Goals: Be a friendly neighborhood programmer<br>🎲 Fun fact: I'm a muggle</p>
 
 ###
 
